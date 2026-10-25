@@ -65,11 +65,11 @@ export const baseDatosInvitados = {
     "isabel-de-la-cruz": { titulo: "Isabel De La Cruz", pases: 1, nombres: [] },
     "raquel-arias": { titulo: "Raquel Arias", pases: 1, nombres: [] },
     "familia-gonzalez-paucar": { titulo: "Familia González Paucar", pases: 2, nombres: ["Elías", "Jacinta"] },
-    "fam-vallenas-jimenez": { titulo: "Fam. Vallenas Jiménez", pases: 0, nombres: [] },
+    "fam-vallenas-jimenez": { titulo: "Fam. Vallenas Jiménez", pases: 5, nombres: [] },
     "weston-y-shelomit-robins": { titulo: "Weston y Shelomit Robins", pases: 2, nombres: [] },
     "lina-galvez-herrera": { titulo: "Lina Gálvez Herrera", pases: 1, nombres: [] },
-    "fam-fajardo-duran": { titulo: "Fam. Fajardo Durán", pases: 0, nombres: [] },
-    "fam-guzman-camac": { titulo: "Fam. Guzmán Camac", pases: 0, nombres: [] },
+    "fam-fajardo-duran": { titulo: "Fam. Fajardo Durán", pases: 4, nombres: [] },
+    "fam-guzman-camac": { titulo: "Fam. Guzmán Camac", pases: 3, nombres: [] },
     "miguel-y-sarita-medrano": { titulo: "Miguel y Sarita Medrano", pases: 2, nombres: [] },
     "yessica-rojas-vizarreta": { titulo: "Yessica Rojas Vizarreta", pases: 1, nombres: [] },
     "cilse-de-lago": { titulo: "Cilse de Lago", pases: 1, nombres: [] },
@@ -77,8 +77,8 @@ export const baseDatosInvitados = {
     "eymi-gonzalez": { titulo: "Eymi González", pases: 1, nombres: [] },
     "ysabella-colmenares": { titulo: "Ysabella Colmenares", pases: 1, nombres: [] },
     "joel-huacac-arone": { titulo: "Joel Huacac Arone", pases: 1, nombres: [] },
-    "fam-guillen": { titulo: "Fam. Guillén", pases: 0, nombres: [] },
-    "fam-zambrano": { titulo: "Fam. Zambrano", nombres: [] },
+    "fam-guillen": { titulo: "Fam. Guillén", pases: 3, nombres: [] },
+    "fam-zambrano": { titulo: "Fam. Zambrano", pases: 2, nombres: [] },
 
 
     // Respaldo genérico conservado del código original
