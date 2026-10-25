@@ -65,6 +65,20 @@ export const baseDatosInvitados = {
     "isabel-de-la-cruz": { titulo: "Isabel De La Cruz", pases: 1, nombres: [] },
     "raquel-arias": { titulo: "Raquel Arias", pases: 1, nombres: [] },
     "familia-gonzalez-paucar": { titulo: "Familia González Paucar", pases: 2, nombres: ["Elías", "Jacinta"] },
+    "fam-vallenas-jimenez": { titulo: "Fam. Vallenas Jiménez", pases: 0, nombres: [] },
+    "weston-y-shelomit-robins": { titulo: "Weston y Shelomit Robins", pases: 0, nombres: [] },
+    "lina-galvez-herrera": { titulo: "Lina Gálvez Herrera", pases: 0, nombres: [] },
+    "fam-fajardo-duran": { titulo: "Fam. Fajardo Durán", pases: 0, nombres: [] },
+    "fam-guzman-camac": { titulo: "Fam. Guzmán Camac", pases: 0, nombres: [] },
+    "miguel-y-sarita-medrano": { titulo: "Miguel y Sarita Medrano", pases: 0, nombres: [] },
+    "yessica-rojas-vizarreta": { titulo: "Yessica Rojas Vizarreta", pases: 0, nombres: [] },
+    "cilse-de-lago": { titulo: "Cilse de Lago", pases: 0, nombres: [] },
+    "alex-y-jessica-robles": { titulo: "Alex y Jessica Robles", pases: 0, nombres: [] },
+    "eymi-gonzalez": { titulo: "Eymi González", pases: 0, nombres: [] },
+    "ysabella-colmenares": { titulo: "Ysabella Colmenares", pases: 0, nombres: [] },
+    "joel-huacac-arone": { titulo: "Joel Huacac Arone", pases: 0, nombres: [] },
+    "fam-guillen": { titulo: "Fam. Guillén", pases: 0, nombres: [] },
+    "fam-zambrano": { titulo: "Fam. Zambrano", pases: 0, nombres: [] },
 
 
     // Respaldo genérico conservado del código original
